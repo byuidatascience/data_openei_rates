@@ -1,7 +1,7 @@
 # data_openei_rates
 Data for variable pricing of electricity by utility district
 
-**Utility_Name** 
+**Utility_Name** </br>
 **Rate_Name** 
 **ELA_Id** : The Energy Information Administration id. 
 **Demand_Rate_Flat** : Demand Rate
