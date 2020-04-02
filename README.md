@@ -5,8 +5,8 @@ Utility_Name : </br>
 Rate_Name : </br>
 ELA_Id : The Energy Information Administration id.  </br>
 Demand_Rate_Flat : Demand Rate </br>
-Demand_RateT1~4 : Tiered Demand Usage </br>
-Energy_RateT1~6 : Tiered Energy Usage </br>
+Demand_RateT : Tiered Demand Usage </br>
+Energy_RateT : Tiered Energy Usage </br>
 demandWkdaymonthhour : </br>
 demandWkeddaymonthhour: </br>
 energyWkdaymonthhour: </br>
