@@ -1,5 +1,9 @@
 # data_openei_rates
-Data for variable pricing of electricity by utility district
+Scraped for every location in the US. </br>
+Provides critical information regarding peak-shifting energy cost reduction strategies. </br>
+Will allow the use of relatively realistic cost and saving values. </br>
+Issues: It is difficult to know exactly which rate plan a store is on. </br>
+
 
 Utility_Name : </br>
 Rate_Name : </br>
