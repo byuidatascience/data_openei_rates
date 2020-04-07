@@ -2,7 +2,12 @@
 Scraped for every location in the US. </br>
 Provides critical information regarding peak-shifting energy cost reduction strategies. </br>
 Will allow the use of relatively realistic cost and saving values. </br>
-Issues: It is difficult to know exactly which rate plan a store is on. </br>
+
+The current csv files that are in the repository are broken up into smaller portions in order to fit in the repository. They are meant to be joined and treated as one dataset. They were pulled in March 2020 and are accurate up to then. For future data, the script may be required to run. 
+
+There are many columns that describe use the naming convention of demandWkdaymonthhour, energyWkdaymonthhour etc. that describe the rate structure according to the schedule. For example, demandWkdaymonth1hour1 would be the the weekday rate structure under the demand tab for January, between 12AM-1AM. 
+
+Issues: It is difficult to know exactly which rate plan a store is on. As well, the script to scrape the data takes a bit of time and could be made more efficiently. </br>
 
 
 ---
